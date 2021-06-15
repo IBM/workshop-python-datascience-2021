@@ -8,7 +8,6 @@ This section is broken up into the following steps:
 1. [Create IBM Cloud Account and IBM Cloud Pak for Data services](#2-create-ibm-cloud-account-and-service)
 1. [Create a Project](#3-create-a-project)
 1. [Upload the data](#4-upload-the-data)
-1. [Associate a Watson Machine Learning Service instance to the project](#5-associate-a-watson-machine-learning-service-instance-to-the-project)
 1. [Conclusion](#6-conclusion)
 
 >**Note:** You can click on any image in the instructions below to zoom in and see more details. When you do that just click on your browser's back button to return to the previous page.
@@ -93,47 +92,13 @@ We'll use a data set from [Kaggle](https://www.kaggle.com/) for this workshop. Y
 
 [![Data upload completed](../assets/images/setup/cpd-data-upload-completed.png)](../assets/images/setup/cpd-data-upload-completed.png)
 
-## 5. Associate a Watson Machine Learning Service instance to the project
-
-You will need to associate a Watson Machine Learning service instance to your project in order to run Machine Learning experiments.
-
-* Go to the *Settings* tab of your project and look for the *Associated services* section. Click on `Add service` and in the menu that opens up, click on `Watson`.
-
-[![Add Watson service](../assets/images/setup/add-watson-service.png)](../assets/images/setup/add-watson-service.png)
-
-* Click the checkbox next to the Watson Machine Learning service instance that was created for you when you signed up for Cloud Pak for Data as a Service or the one you created in section 2. Click `Associate service`.
-
-  > **Note:** If you have multiple WatsonMachineLearning services, make sure you select the one that is in the same regions as is your Cloud Pak for Data as a service.
-
-[![Choose WML instance](../assets/images/setup/choose-wml-instance.png)](../assets/images/setup/choose-wml-instance.png)
-
-* You willsee a notification that the WatsonMachineLearning service was successfully associated with your project. Click on the `X` in the right top corner to close the pop up modal and go back to your project.
-
-[![WML Service added successfully](../assets/images/setup/wml-service-added-successfully.png)](../assets/images/setup/wml-service-added-successfully.png)
-
 You are now ready to move on to the next module of this workshop.
 
 ## FAQ
  
-**Q1: I don't have all the services needed.**
-
-A: In some rare cases, the services may not automatically provision for you. You can do that manually by following these instructions:
-
-* Go the (☰) navigation menu on the top left corner of the Cloud Pak for Data UI. Expand *Services* and then click on `Service instances`.
-
-* If you do not have an instance of *Watson Machine Learning*, or any service that you need, click on the `Add service +` button.
-
-* Search or scroll until you find the tile for *Machine Learning*,or whichever service you need, and click on it.
-
-* Choose the same region as you chose for your Cloud Pak for Data as a Service platform, select the *Free* tier unless your organization has already used their 1 free tier, change the name and add tags if you like. The *Default* resource group should be correct, and then click `Create`.
-
-**Q2: I get the `That email address is already registered to an IBM Cloud account.` messsage.**
+**Q1: I get the `That email address is already registered to an IBM Cloud account.` messsage.**
 
 A: You must already have an IBMid account. Follow the login link provided in the error message to login to your existing account. 
-
-**Q3: I get the `Your Watson Studio, Watson Knowledge Catalog, and Watson Machine Learning Lite services must be created in the same service region.` error.**
-
-A: This means you have previously created some Watson services in a different region. To resolve this, go to the [CP4DaaS Login](https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all) page, select the region you had previously used and then login using the login link at the bottom right. Alternatively, you can create a new account and proceed as a new user to follow along.
 
 ## 6. Conclusion
 
