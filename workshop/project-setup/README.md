@@ -23,11 +23,7 @@ Various parts of this workshop will require the attendee to upload files or run 
 
 We need to provision our Cloud Pak for Data as a Service instance. Cloud Pak for Data provides you with an integrated set of capabilities for collecting and organizing your data into a trusted, unified view, and then creating and scaling AI models across your business.
 
-* Launch a web browser and navigate to IBM Cloud Pak for Data using the region closest to your location from the list below:
-
-    * [US, Dallas](https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all&regions=us-south&preselect_region=true)
-    * [EU, Frankfurt](https://eu-de.dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all&regions=eu-de&preselect_region=true)
-    * [Japan, Tokyo](https://jp-tok.dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all&regions=jp-tok&preselect_region=true)
+* Launch a web browser and navigate to IBM Cloud Pak for Data using the region [US, Dallas](https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all&regions=us-south&preselect_region=true)
 
 * You can then log in using your IBMid if you have one or create a new IBMid.
 
