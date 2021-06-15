@@ -2,7 +2,7 @@
 
 ### What is data preprocessing?
 
-Process of converting raw data into useful format.In order to better understand the data, we need to gather some statistical insights into our data. In this module of the course, we will use some of the libraries available with Python and Jupyter to examine our data set. 
+Process of converting raw data into useful format.In order to better understand the data, we need to gather some statistical insights into our data. In this module of the workshop, we will use some of the libraries available with Python and Jupyter to examine our data set. 
 
 ### What is pandas?
 

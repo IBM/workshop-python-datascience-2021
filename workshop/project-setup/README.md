@@ -111,7 +111,7 @@ You will need to associate a Watson Machine Learning service instance to your pr
 
 [![WML Service added successfully](../assets/images/setup/wml-service-added-successfully.png)](../assets/images/setup/wml-service-added-successfully.png)
 
-You are now ready to move on to the next module of this course.
+You are now ready to move on to the next module of this workshop.
 
 ## FAQ
  
