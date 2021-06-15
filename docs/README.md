@@ -1,12 +1,8 @@
-# Python and Analytics
+# Python and Data Analytics
 
-This is a workshop to demonstrate basic Python for AI using Pandas and Jupyter notebooks.
+Welcome to our workshop! In this workshop we'll be using Jupyter notebooks to learn about Python3, use Python and the Pandas library to do some data visualisation, and learn about Python and data science.
 
-This workshop is hosted on https://ibm.github.io/python-and-analytics/
-
-## Sample agenda
-
-This is designed for 2 90-minute sessions.
+## Agenda
 
 ### Day 1
 
@@ -31,23 +27,8 @@ This is designed for 2 90-minute sessions.
 | [Demo of Watson NLU service](https://www.ibm.com/demos/live/natural-language-understanding/self-service/home) | See a demonstration of Watson NLU in action | 00:05 |
 | [Use NLU and Jupyter to analyze Sentiment](natural-language-understanding/README.md) | Run a Jupyter notebook and access the NLU APIs to analyze sentiment | 00:35 |
 | Wrap up  | Review and Reflect on the workshop | 00:05 |
-
-### Pre-workshop checks
-
-Let's make sure you're ready to go for the workshop.
-
-Here are the items you need to check:
-
-#### 1. CP4DaaS access Check
-
-Navigate to the [CP4DaaS webpage](https://dataplatform.cloud.ibm.com/) and make sure that you can login with your IBMid. If you don't have an IBMid, click the "Need an account? Sign up and try for free" link to create one.
-
-#### 2. Developer Portal access Check
-
-Now let's make sure you can access the Developer Portal page for your company. To test that, navigate to the [Developer Portal webpage](https://developer.ibm.com/portals/<my_company>/) and confirm you can see the page.
-
 ## Compatability
 
-This workshop has been tested on [IBM Watson Studio and Cloud Pak for Data as a Service](dataplatform.cloud.ibm.com)
+This workshop has been tested on [IBM Watson Studio and Cloud Pak for Data as a Service](https://dataplatform.cloud.ibm.com)
 
 The notebooks use `Python 3.6.9`.
