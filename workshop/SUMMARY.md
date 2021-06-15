@@ -10,12 +10,7 @@
 
 ## Pandas
 
-<!-- * [Using Pandas DataFrames](work-with-dataframe/README.md) -->
 * [Using Python and Pandas for data visualization](data-visualization/README.md)
-
-## Course Badge
-
-* [Claim your badge](claim-your-badge/README.md)
 
 ## Resources
 
