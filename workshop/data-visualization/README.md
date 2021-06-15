@@ -1,6 +1,6 @@
 # Data Visualization in Python using Matplotlib and Seaborn
 
-In this module of the course, we will use some of the libraries available with Python and Jupyter to examine our data set. In order to better understand the data, we can use visualizations such as charts, plots, and graphs. We'll use some common tools such as [`matplotlib`](https://matplotlib.org/users/index.html)  and [`seaborn`](https://seaborn.pydata.org/index.html) and gather some statistical insights into our data.
+In this module of the workshop, we will use some of the libraries available with Python and Jupyter to examine our data set. In order to better understand the data, we can use visualizations such as charts, plots, and graphs. We'll use some common tools such as [`matplotlib`](https://matplotlib.org/users/index.html)  and [`seaborn`](https://seaborn.pydata.org/index.html) and gather some statistical insights into our data.
 
 We'll continue to use the [`insurance.csv`](https://www.kaggle.com/noordeen/insurance-premium-prediction/download) file from your project assets, so if you have not already [`downloaded this file`](https://www.kaggle.com/noordeen/insurance-premium-prediction/download) to your local machine, and uploaded it to your project, do that now.
 
